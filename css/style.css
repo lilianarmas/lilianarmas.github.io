@@ -23,6 +23,6 @@ body {
     color: #77828d !important;
 }
 
-.right {
-    float: right;
+.margin {
+    margin-left: 5px;
 }
